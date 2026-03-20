@@ -1,2 +1,3 @@
-# modern-analytics-dashboard-3h0f
-A analytics dashboard for modern development workflows
+# Modern Analytics Dashboard 3H0F
+
+A analytics dashboard for modern development workflows.
